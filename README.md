@@ -1,6 +1,6 @@
-# AndroidModul7
+#Android Fragment 1
 ![alt text](https://github.com/ZulfanoRp/AndroidModul7/blob/master/01.jpeg)
-# AndroidModul7
+<br>
 ![alt text](https://github.com/ZulfanoRp/AndroidModul7/blob/master/02.jpeg)
-# AndroidModul7
+<br>
 ![alt text](https://github.com/ZulfanoRp/AndroidModul7/blob/master/03.jpeg)
